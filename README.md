@@ -1,5 +1,4 @@
 
-```markdown
 # 🏨 AtliQ Hotels Data Analysis Project
 
 ## 📑 Table of Contents
